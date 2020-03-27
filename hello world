@@ -2,5 +2,6 @@
 
 void main(){
   char s[] = "Hello World!";
-  printf("%s",s);
+  char name[] = "Sugar";
+  printf("%6s%3s",s,name);
 }
